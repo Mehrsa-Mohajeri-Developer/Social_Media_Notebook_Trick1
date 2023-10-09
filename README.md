@@ -1,4 +1,4 @@
-# Social_Media_Notebook_Template
+# Social_Media_Notebook_Trick1
 
 **If you're looking for a notebook where you can put down your social media on its pages, this template is perfect for you ♥️📚**
 
