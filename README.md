@@ -6,7 +6,7 @@
 https://github.com/Mehrsa-Mohajeri-Developer/Social_Media_Book_Template/assets/145048780/e09ace92-2714-4aed-a035-bbd29bb7c8e8
 
 
-- 🔗 [Demo Project](https://mehrsa-mohajeri-developer.github.io/Social_Media_Book_Template/)
+- 🔗 [Demo Project](https://mehrsa-mohajeri-developer.github.io/Social_Media_Notebook_Trick1/)
   
 - 👩🏻‍💻 Developed by Mehrsa Mohajeri
 
