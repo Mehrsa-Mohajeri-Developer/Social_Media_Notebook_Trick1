@@ -1,6 +1,6 @@
 # Social_Media_Book_Template
 
-****
+**If you're looking for a notebook where you can put down your social media on its pages, this template is perfect for you ♥️📚**
 
 
 https://github.com/Mehrsa-Mohajeri-Developer/Social_Media_Book_Template/assets/145048780/e09ace92-2714-4aed-a035-bbd29bb7c8e8
