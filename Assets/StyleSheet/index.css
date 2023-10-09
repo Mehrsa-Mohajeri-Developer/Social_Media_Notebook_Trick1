@@ -1,0 +1,122 @@
+@font-face {
+  font-family: amatic;
+  src: url(../Amatic_SC/AmaticSC-Bold.ttf);
+}
+* {
+  margin: 0;
+  padding: 0;
+  box-sizing: border-box;
+}
+
+body {
+  min-height: 100vh;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  font-family: amatic;
+  background-color: black;
+}
+
+.box {
+  width: 700px;
+  height: 700px;
+  /* border: 1px solid black; */
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  position: relative;
+}
+.box > a:nth-of-type(1) {
+  text-decoration: none;
+  transform-origin: 95% 95%;
+  transition: 1s;
+  background: linear-gradient(#0088cc, #FFFFFF);
+  color: white;
+  font-size: 60px;
+  transform: translate(-50%, -50%) rotate(10deg);
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  position: absolute;
+  top: 50%;
+  left: 50%;
+  /* transform: translate(-50%, -50%); */
+  width: 300px;
+  height: 350px;
+  border: 1px solid white;
+  border-radius: 20px;
+}
+.box > a:nth-of-type(1):hover ~ a {
+  transform: translate(-50%, -50%) rotate(130deg);
+}
+.box > a:nth-of-type(2) {
+  text-decoration: none;
+  transform-origin: 100% 90%;
+  transition: 1s;
+  position: absolute;
+  top: 50%;
+  left: 50%;
+  /* transform: translate(-50%, -50%); */
+  width: 300px;
+  height: 350px;
+  border: 1px solid white;
+  border-radius: 20px;
+  transform-origin: 95% 95%;
+  align-items: center;
+  background-image: radial-gradient(circle farthest-corner at 35% 90%, #fec564, transparent 50%), radial-gradient(circle farthest-corner at 0 140%, #fec564, transparent 50%), radial-gradient(ellipse farthest-corner at 0 -25%, #5258cf, transparent 50%), radial-gradient(ellipse farthest-corner at 20% -50%, #5258cf, transparent 50%), radial-gradient(ellipse farthest-corner at 100% 0, #893dc2, transparent 50%), radial-gradient(ellipse farthest-corner at 60% -20%, #893dc2, transparent 50%), radial-gradient(ellipse farthest-corner at 100% 100%, #d9317a, transparent), linear-gradient(#6559ca, #bc318f 30%, #e33f5f 50%, #f77638 70%, #fec66d 100%);
+  color: white;
+  font-size: 60px;
+  transform: translate(-50%, -50%) rotate(20deg);
+  display: flex;
+  align-items: center;
+  justify-content: center;
+}
+.box > a:nth-of-type(2):hover ~ a {
+  transform: translate(-50%, -50%) rotate(130deg);
+}
+.box > a:nth-of-type(3) {
+  text-decoration: none;
+  transition: 1s;
+  transform-origin: 100% 90%;
+  position: absolute;
+  top: 50%;
+  left: 50%;
+  /* transform: translate(-50%, -50%); */
+  width: 300px;
+  height: 350px;
+  border: 1px solid white;
+  border-radius: 20px;
+  transform-origin: 95% 95%;
+  align-items: center;
+  background-image: linear-gradient(#1565c0 50%, white);
+  color: white;
+  font-size: 60px;
+  transform: translate(-50%, -50%) rotate(30deg);
+  display: flex;
+  align-items: center;
+  justify-content: center;
+}
+.box > a:nth-of-type(3):hover ~ a {
+  transform: translate(-50%, -50%) rotate(130deg);
+}
+.box > a:nth-of-type(4) {
+  text-decoration: none;
+  transition: 1s;
+  position: absolute;
+  top: 50%;
+  left: 50%;
+  /* transform: translate(-50%, -50%); */
+  width: 300px;
+  height: 350px;
+  border: 1px solid white;
+  border-radius: 20px;
+  transform-origin: 95% 95%;
+  align-items: center;
+  background-image: linear-gradient(black, white);
+  color: white;
+  font-size: 70px;
+  transform: translate(-50%, -50%) rotate(40deg);
+  display: flex;
+  align-items: center;
+  justify-content: center;
+}/*# sourceMappingURL=index.css.map */
